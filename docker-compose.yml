@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  web:
+    build: .
+    ports:
+      - "3400:80"   # ← ここでホスト3400番 → コンテナ80番 にマッピング
+    volumes:
+      - ./:/var/www/html
+    command: ["apache2-foreground"]

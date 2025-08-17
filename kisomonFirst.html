@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>基礎問復習問題</title>
+  <!-- 外部CSSを読み込み -->
+  <link rel="stylesheet" href="stylesheet.css">
+</head>
+<header>
+    <img class="header-image" src="https://yt3.googleusercontent.com/Cll4DkGSWX4h_AdTPv4Aby2f-G2hc97eJGj5MhZUO_m_TOgPcFwkuHSFfSbuCj-O5Ph1xX1Rjrk=s160-c-k-c0x00ffffff-no-rj" alt="チャンネルアイコン">
+    <h1 class="header-title">数学1A 一覧</h1>
+</header>  
+<body>
+<h1 class="detail-sagare"></h1>
+<h2>制作過程なので全ての問題の解説はありません、順次あげていきます</h2>
+<h1 class="bangou">問題番号</h1>
+<div class="problem-number">
+    <div id="problems"></div>
+    <script type="module" src="problemsFirst.js" defer></script>
+</div>
+<!-- Modal -->
+<div id="modal" class="modal" aria-hidden="true">
+    <div class="modal__overlay" data-close="true"></div>
+    <div class="modal__dialog" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+      <button class="modal__close" type="button" data-close="true" aria-label="閉じる">×</button>
+      <h2 id="modal-title" class="modal__title">問題 <span id="modal-problem-no"></span></h2>
+      <div class="modal__links"></div>
+    </div>
+  </div>
+</body>
+<footer>
+    <a class="btn btn-contact" href="index.html" target="_blank" rel="noopener">
+        一覧に戻る
+    </a>
+</footer>
+</html>
