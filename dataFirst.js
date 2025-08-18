@@ -208,7 +208,7 @@ const problems = [
     26: {
       example: "https://www.youtube.com/watch?v=REPLACE_EXAMPLE_26",
       drill:   "https://www.youtube.com/watch?v=REPLACE_DRILL_26",
-      reviewPdf:"https://drive.google.com/drive/folders/REPLACE_PDF_26",
+      reviewPdf:"https://drive.google.com/file/d/1qcVdlp2Hm_1HmCy00zXcs7JDwHXR9g5X/view?usp=sharing",
       review:  "https://www.youtube.com/watch?v=REPLACE_REVIEW_26",
     },
     27: {
