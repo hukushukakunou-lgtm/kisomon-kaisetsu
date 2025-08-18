@@ -207,7 +207,7 @@ const problems = [
     },
     26: {
       example: "https://www.youtube.com/watch?v=REPLACE_EXAMPLE_26",
-      drill:   "https://www.youtube.com/watch?v=REPLACE_DRILL_26",
+      drill:   "https://www.youtube.com/watch?v=rqsO0U394Lc",
       reviewPdf:"https://drive.google.com/file/d/1qcVdlp2Hm_1HmCy00zXcs7JDwHXR9g5X/view?usp=sharing",
       review:  "https://www.youtube.com/watch?v=REPLACE_REVIEW_26",
     },
@@ -249,19 +249,19 @@ const problems = [
     },
     33: {
       example: "https://www.youtube.com/watch?v=REPLACE_EXAMPLE_33",
-      drill:   "https://www.youtube.com/watch?v=REPLACE_DRILL_33",
+      drill:   "https://www.youtube.com/watch?v=yW1a-MVbEg0",
       reviewPdf:"https://drive.google.com/drive/folders/REPLACE_PDF_33",
       review:  "https://www.youtube.com/watch?v=REPLACE_REVIEW_33",
     },
     34: {
       example: "https://www.youtube.com/watch?v=REPLACE_EXAMPLE_34",
       drill:   "https://www.youtube.com/watch?v=REPLACE_DRILL_34",
-      reviewPdf:"https://drive.google.com/drive/folders/REPLACE_PDF_34",
+      reviewPdf:"https://drive.google.com/file/d/1rNVh2zSb0OkocHQ_xGEzZSs2ol8lSd7C/view?usp=sharing",
       review:  "https://www.youtube.com/watch?v=REPLACE_REVIEW_34",
     },
     35: {
       example: "https://www.youtube.com/watch?v=REPLACE_EXAMPLE_35",
-      drill:   "https://www.youtube.com/watch?v=REPLACE_DRILL_35",
+      drill:   "https://www.youtube.com/watch?v=n-ZQB_sH7L8&t=351s",
       reviewPdf:"https://drive.google.com/drive/folders/REPLACE_PDF_35",
       review:  "https://www.youtube.com/watch?v=REPLACE_REVIEW_35",
     },
