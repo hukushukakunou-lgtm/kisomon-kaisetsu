@@ -156,14 +156,14 @@ const problems = [
   // 問題ごとのリンク（静的、3〜50はプレースホルダ）
   const resourcesByProblem = {
     1: {
-      example: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-      drill:   "https://www.youtube.com/watch?v=ysz5S6PUM-U",
+      example: "https://www.youtube.com/watch?v=1_4AR-nPpwA",
+      drill:   "https://www.youtube.com/watch?v=1_4AR-nPpwA",
       reviewPdf:"https://drive.google.com/drive/folders/XXXXXXXXXXXX",
       review:  "https://www.youtube.com/watch?v=jNQXAC9IVRw",
     },
     2: {
-      example: "https://www.youtube.com/watch?v=ScMzIvxBSi4",
-      drill:   "https://www.youtube.com/watch?v=oHg5SJYRHA0",
+      example: "https://www.youtube.com/watch?v=1_4AR-nPpwA",
+      drill:   "https://www.youtube.com/watch?v=1_4AR-nPpwA",
       reviewPdf:"https://drive.google.com/drive/folders/YYYYYYYYYYYY",
       review:  "https://www.youtube.com/watch?v=V-_O7nl0Ii0",
     },
