@@ -380,8 +380,8 @@ const problems = [
     38: {
       example: "https://www.youtube.com/watch?v=REPLACE_EXAMPLE_38",
       drill:   "https://youtu.be/wqnZZNusBT8",
-      reviewPdf:"https://drive.google.com/file/d/1VRATXM8-G4ZECgUrb4mBCoLo2KwBy7Uh/view?usp=share_link",
-      review:  "https://www.youtube.com/watch?v=REPLACE_REVIEW_38",
+      reviewPdf:"https://drive.google.com/drive/folders/16UDCkcxMk-Prf2BUrU9oPZCYzyj0n-zq",
+      review:  "https://drive.google.com/drive/folders/16UDCkcxMk-Prf2BUrU9oPZCYzyj0n-zq",
     },
     39: {
       example: "https://www.youtube.com/watch?v=REPLACE_EXAMPLE_39",
