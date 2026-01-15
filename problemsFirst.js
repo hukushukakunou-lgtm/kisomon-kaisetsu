@@ -35,7 +35,7 @@ import { problems, resourcesByProblem } from './dataFirst.js';
       { label: "例題解説（YouTube）", url: res.example },
       { label: "演習問題解説（YouTube）", url: res.drill },
       { label: "復習問題（Google Drive）", url: res.reviewPdf },
-      { label: "復習問題解説（YouTube）", url: res.review },
+      { label: "復習問題解説（Google Drive）", url: res.review },
     ];
   
     for (const it of items) {

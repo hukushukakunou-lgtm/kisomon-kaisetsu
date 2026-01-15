@@ -357,7 +357,7 @@ const problems = [
       example: "https://www.youtube.com/watch?v=REPLACE_EXAMPLE_34",
       drill:   "https://www.youtube.com/watch?v=REPLACE_DRILL_34",
       reviewPdf:"https://drive.google.com/file/d/1rNVh2zSb0OkocHQ_xGEzZSs2ol8lSd7C/view?usp=sharing",
-      review:  "https://www.youtube.com/watch?v=REPLACE_REVIEW_34",
+      review:  "https://drive.google.com/drive/folders/1y1frCoqv8a2aUob2bCRY1OiuGPl3_ugD",
     },
     35: {
       example: "https://www.youtube.com/watch?v=REPLACE_EXAMPLE_35",
